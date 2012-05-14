@@ -23,7 +23,7 @@ Now from the command line use the following:
 	ruby xml_2_csv.rb "file.xml" "test.csv"
 
 
-This is a script that uses input xml files that are produced by Illumina Casava v.1.7 and then converts it to csv format for further usage in Bioinformatics analysis. 		
+This is a script that uses input xml files that are produced by Illumina Casava v.1.7 and then converts it to csv format for further usage in Bioinformatics analysis. 	
 
 
 								 
