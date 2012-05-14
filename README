@@ -1,3 +1,29 @@
 											XML TO CSV
 											
-This is a script that uses input xml files that are produced by Illumina Casava v.1.7 and then converts it to csv format for further usage. 										 
+
+The Script is created by Akshay Bhat. Date: 05/04/2012.
+
+The Script can only be run on the console. (As of Now)
+
+The following are the requirements for running the script.
+
+Dependencies:
+
+Rubygems: sudo gem update --http-proxy --system
+	NB: If you get an error saying "Nothing to Update" Then do the following.
+	1. sudo gem install --http-proxy rubygems-update
+	2. update_rubygems
+
+Nokogiri: sudo gem install nokogiri
+
+Fastercsv: sudo gem install  fastercsv
+
+Now from the command line use the following:
+
+	ruby xml_2_csv.rb "file.xml" "test.csv"
+
+
+This is a script that uses input xml files that are produced by Illumina Casava v.1.7 and then converts it to csv format for further usage in Bioinformatics analysis. 		
+
+
+								 
