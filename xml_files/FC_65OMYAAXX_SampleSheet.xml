@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FlowcellInfo ID="65OMYAAXX" Recipe="PE-F" Operator="JG" Desc="99">
+	<Lane Number="1">
+		<Sample Ref="2pM" ID="Col15" Index="ATCACG" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="7978" Index="CGATGT" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="7978M" Index="TTAGGC" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="7978 NonM" Index="TGACCA" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="32450" Index="ACAGTG" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="1559" Index="GCCAAT" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="1878/10" Index="CAGATC" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="9065/11" Index="ACTTGA" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="9066/11" Index="GATCAG" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="4033/08" Index="TAGCTT" Desc="DNA" Control="TRUE" />
+		<Sample Ref="1pM" ID="4034/08" Index="GGCTAC" Desc="DNA" Control="TRUE" />
+	</Lane>
+	<Lane Number="2">
+		<Sample Ref="1pM" ID="459/09" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="460/09" Index="AGTCAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="T4N1" Index="AGTTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="T4JH" Index="ATGTCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="T4P2" Index="CCGTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="CP3" Index="GTCCGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="6pM" ID="UVB Contr" Index="ACTTGA" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="3">
+		<Sample Ref="1pM" ID="CP4" Index="GTGAAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="CP8" Index="GTGGCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="CP9" Index="GTTTCG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="CP11" Index="CGTACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="CP12" Index="GAGTGG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="1pM" ID="03/3038M4" Index="ACTGAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="6pM" ID="UVB 3uMN4" Index="ACTTGA" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="4">
+		<Sample Ref="0.5pm" ID="RK33" Index="ATCACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK34" Index="CGATGT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK35" Index="TTAGGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK36" Index="TGACCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK37" Index="ACAGTG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK38" Index="GCCAAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK39" Index="CAGATC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK40" Index="ACTTGA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK41" Index="GATCAG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK42" Index="TAGCTT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK43" Index="GGCTAC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK44" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK45" Index="AGTCAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK46" Index="AGTTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK47" Index="ATGTCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK48" Index="CCGTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK49" Index="GTCCGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK50" Index="GTGAAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK51" Index="GTGGCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK52" Index="GTTTCG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK53" Index="CGTACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK54" Index="GAGTGG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK55" Index="ACTGAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.5pm" ID="RK56" Index="ATTCCT" Desc="DNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="5">
+		<Sample Ref="0.52pm" ID="RK57" Index="ATCACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK58" Index="CGATGT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK59" Index="TTAGGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK60" Index="TGACCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK61" Index="ACAGTG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK62" Index="GCCAAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK63" Index="CAGATC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK64" Index="ACTTGA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK65" Index="GATCAG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK66" Index="TAGCTT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK67" Index="GGCTAC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK68" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK69" Index="AGTTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK70" Index="ATGTCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK71" Index="CCGTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK72" Index="GTCCGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK73" Index="GTGAAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK74" Index="GTGGCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK75" Index="GTTTCG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK76" Index="CGTACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK77" Index="GAGTGG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK78" Index="ACTGAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK79" Index="ATTCCT" Desc="DNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="6">
+		<Sample Ref="0.52pm" ID="RK80" Index="ATCACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK81" Index="CGATGT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK82" Index="TTAGGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK83" Index="TGACCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK84" Index="ACAGTG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK85" Index="GCCAAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK86" Index="CAGATC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK87" Index="ACTTGA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK88" Index="GATCAG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK89" Index="TAGCTT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK90" Index="GGCTAC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK91" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK92" Index="AGTCAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK93" Index="AGTTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK94" Index="ATGTCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK95" Index="CCGTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK96" Index="GTCCGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK97" Index="GTGAAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK98" Index="GTGGCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK99" Index="GTTTCG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK100" Index="CGTACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK101" Index="GAGTGG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK102" Index="ACTGAT" Desc="DNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="7">
+		<Sample Ref="0.52pm" ID="RK103" Index="ATCACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK104" Index="CGATGT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK105" Index="TTAGGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK106" Index="TGACCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK107" Index="ACAGTG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK108" Index="GCCAAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK109" Index="CAGATC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK110" Index="ACTTGA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK111" Index="GATCAG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK112" Index="TAGCTT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK113" Index="GGCTAC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK114" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK115" Index="AGTCAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK116" Index="AGTTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK117" Index="ATGTCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK118" Index="CCGTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK119" Index="GTCCGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK120" Index="GTGAAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK121" Index="GTGGCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK122" Index="GTTTCG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK123" Index="GAGTGG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK124" Index="ACTGAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK125" Index="ATTCCT" Desc="DNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="8">
+		<Sample Ref="0.52pm" ID="RK126" Index="ATCACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK127" Index="CGATGT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK128" Index="TTAGGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK130" Index="TGACCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK131" Index="ACAGTG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK132" Index="GCCAAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK133" Index="CAGATC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK134" Index="ACTTGA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK135" Index="GATCAG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK136" Index="TAGCTT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK137" Index="GGCTAC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK138" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK139" Index="AGTCAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK140" Index="AGTTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK141" Index="ATGTCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK142" Index="CCGTCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK143" Index="GTCCGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK144" Index="GTGAAA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK145" Index="GTGGCC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK146" Index="GTTTCG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK147" Index="GAGTGG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK148" Index="ACTGAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="0.52pm" ID="RK149" Index="ATTCCT" Desc="DNA" Control="FALSE" />
+	</Lane>
+</FlowcellInfo>

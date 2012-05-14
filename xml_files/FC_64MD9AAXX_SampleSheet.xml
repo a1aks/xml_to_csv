@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<FlowcellInfo ID="64MD9AAXX" Recipe="PE-F" Operator="JG" Desc="95">
+	<Lane Number="1">
+		<Sample Ref="8pM" ID="PhiX" Index="" Desc="DNA" Control="TRUE" />
+	</Lane>
+	<Lane Number="2">
+		<Sample Ref="12pm" ID="JH_TT_13" Index="ATCACG" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_14" Index="CGATGT" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_15" Index="TTAGGC" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_16" Index="TGACCA" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_17" Index="ACAGTG" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_18" Index="GCCAAT" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_19" Index="CAGATC" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_20" Index="ACTTGA" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_21" Index="GATCAG" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_22" Index="TAGCTT" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_23" Index="GGCTAC" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="JH_TT_24" Index="CTTGTA" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="3">
+		<Sample Ref="12pm" ID="SJA1" Index="ATCACG" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="SJA2" Index="TTAGGC" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="4">
+		<Sample Ref="12pm" ID="SJA3" Index="ACTTGA" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="SJA4" Index="GATCAG" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="5">
+		<Sample Ref="12pm" ID="SJA5" Index="TAGCTT" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="SJA6" Index="GGCTAC" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="6">
+		<Sample Ref="12pm" ID="MW3" Index="ATCACG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW12" Index="CGATGT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW16" Index="TTAGGC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW23" Index="TGACCA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW24" Index="ACAGTG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW26" Index="GCCAAT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW36" Index="CAGATC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW44" Index="ACTTGA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW83" Index="GATCAG" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW102" Index="TAGCTT" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW114" Index="GGCTAC" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW150" Index="CTTGTA" Desc="DNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="MW11 " Index="AGTCAA" Desc="DNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="7">
+		<Sample Ref="12pm" ID="Niks HPV16 RZ" Index="ACTTGA" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="Niks HPV16 Dnase" Index="GATCAG" Desc="RNA" Control="FALSE" />
+	</Lane>
+	<Lane Number="8">
+		<Sample Ref="12pm" ID="LBC1146 RZ" Index="TAGCTT" Desc="RNA" Control="FALSE" />
+		<Sample Ref="12pm" ID="LBC1158 RZ" Index="GGCTAC" Desc="RNA" Control="FALSE" />
+	</Lane>
+</FlowcellInfo>
